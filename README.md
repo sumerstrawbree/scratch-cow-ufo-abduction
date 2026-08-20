@@ -1,4 +1,4 @@
-# Cow UFO Abduction Mini Game on Scratch
+# Cow UFO Abduction Mini Game on Scratch 🐄🛸👽
 --------------------------
 
 My first Scratch project for the Harvard CS50x course (Week 0's lecture: Problem Set 0)
